@@ -9,11 +9,10 @@ One Paragraph of project description goes here
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+ - 
 
-## Acknowledgments
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software , to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software .
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+MEHDI EL KRAIMI 
+AKA Hilolo
 
